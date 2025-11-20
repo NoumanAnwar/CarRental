@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Title from '../../components/owner/title'
+import Title from '../../components/owner/Title'
 import { assets } from '../../assets/assets'
 
 const AddCar = () => {
